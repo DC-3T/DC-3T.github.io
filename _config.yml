@@ -10,12 +10,12 @@ permalink:        pretty
 title:            Donnie Cameron
 tagline:          'MRI physicist'
 description:      'MRI physicist, researcher and expert in musculo-skeletal imaging and spectroscopy'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://dc-3t.github.io/
+baseurl:          /DC-3T.github.io
 
 author:
   name:           'Donnie Cameron'
-  url:            https://twitter.com/mdo
+  url:            
 
 paginate:         5
 
