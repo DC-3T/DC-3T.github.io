@@ -4,27 +4,25 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  I am an expert in musculoskeletal magnetic resonance imaging and spectroscopy with a background in physics and a long-
+standing interest in muscle, muscle diseases, and the effect of ageing on muscle function. I am currently
+seeking to establish myself as an independent researcher in the Netherlands and, to that end, I have
+been working full-time with the Neuromuscular Disease research group at LUMC from June 2022 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Employment
 
-There are currently two themes built on Poole:
+* _06-2019---Present_, Researcher, Leiden University Medical Center, Leiden, The Netherlands
+* _04-2017---06-2022_, Lecturer (Assistant Professor) in Clinical Magnetic Resonance Physics, University of East Anglia, Norwich, UK
+* _02-2016---04-2017_, Senior Research Associate in Cardiac Magnetic Resonance Physics, University of East Anglia, Norwich, UK
+* _02-2014---04-2016_, Visiting Postdoctoral Research Fellow, National Institute on Aging, National Institutes of Health, Baltimore, USA
+* _06-2012---09-2012_, Research Intern, Eidgenössische Technische Hochschule (Federal Institute of Technology) Zürich, Switzerland
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Education
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* _10-2010---12-2013_, PhD in Medical Imaging, University of Aberdeen, awarded July 2014. Thesis title: "Quantitative T1 MRI in the myocardium".
+* _09-2009---10-2010_, MSc in Medical Physics (commendation), University of Aberdeen. 
+Thesis title: "Proton spectroscopy at 3 tesla in breast cancer”.
+* _09-2003---06-2008_, BSc (Hons) Physical Sciences, University of Aberdeen. Thesis title: 
+"Fibre reinforcing in high-strain materials: Application to ligaments and tendons" 
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
