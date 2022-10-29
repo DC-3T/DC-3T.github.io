@@ -10,7 +10,7 @@ title:            Donnie Cameron
 tagline:          'MRI physicist'
 description:      'MRI physicist, researcher and expert in musculo-skeletal imaging and spectroscopy'
 url:              https://dc-3t.github.io/
-baseurl:          /DC-3T.github.io
+# baseurl:          /DC-3T.github.io
 
 author:
   name:           'Donnie Cameron'
