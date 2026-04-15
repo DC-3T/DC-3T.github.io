@@ -5,7 +5,7 @@ title: 31P-MRS membrane permeability markers relate to disease activity in BMD
 
 ![Phosphorus magnetic resonance in a Becker patient and a control](/assets/images/p31_bmd_control.jpg)
 
-I just published a new article as last author in NMR in Biomedicine <a href="[https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13851](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.70155)" target="_blank">Age-related changes in human skeletal muscle microstructure and architecture assessed by diffusion-tensor magnetic resonance imaging and their association with muscle strength</a>. This was a close collaboration between me and my former colleagues at Leiden University Medical Center, where we show the potential of phosphorus-31 magnetic resonance spectroscopy for capturing early muscle changes in neuromuscular disorders.
+I just published a new article as last author in NMR in Biomedicine <a href="[https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13851](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.70155)" target="_blank">Skeletal muscle membrane permeability markers derived from 31P-MRS may reflect disease activity in Becker muscular dystrophy</a>. This was a close collaboration between me and my former colleagues at Leiden University Medical Center, where we show the potential of phosphorus-31 magnetic resonance spectroscopy for capturing early muscle changes in neuromuscular disorders.
 
 A brief abstract is given below:
 
